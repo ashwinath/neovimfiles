@@ -39,6 +39,7 @@ Plugin 'morhetz/gruvbox'
 Plugin 'tpope/vim-fugitive'
 Plugin 'nikvdp/ejs-syntax'
 Plugin 'mxw/vim-jsx'
+Plugin 'ryanoasis/nerd-fonts'
 
 call vundle#end()
 " .vimrc folding
